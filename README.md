@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aura Studio
 
 ![Aura Studio Preview](./public/screenshot.png)
@@ -53,3 +54,6 @@ Open [http://localhost:3000](http://localhost:3000) to start generating.
 ## License
 
 MIT
+=======
+# AURA-LoRA-Studio
+>>>>>>> origin/main
